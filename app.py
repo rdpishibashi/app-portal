@@ -18,8 +18,8 @@ APPS = [
         "name": "Ledger-merger",
         "icon": "🧩",
         "description": "DXF-diff-manager が出力した図面親子管理台帳（複数プロジェクト分）を統合",
-        "url": "https://ledger-merger.streamlit.app/",
-        "placeholder": True,
+        "url": "https://ledger-merger-5hjdmtqn56kbaazzzqcc8c.streamlit.app/",
+        "placeholder": False,
     },
     {
         "name": "Drawing-genealogy",
@@ -29,10 +29,10 @@ APPS = [
         "placeholder": False,
     },
     {
-        "name": "DXF-extract-labels",
-        "icon": "🏷️",
-        "description": "複数のDXFファイルからラベル（機器符号・図番等）を抽出・集計",
-        "url": "https://dxf-extract-labels-imdh5agzzybji7epk5pvuq.streamlit.app/",
+        "name": "HostPL-extractor",
+        "icon": "🔌",
+        "description": "ULKESパーツリストExcelから指定アセンブリの機器符号リストを抽出",
+        "url": "https://hostpl-extractor-ct5db325tefzpzcbobxeul.streamlit.app/",
         "placeholder": False,
     },
 ]
@@ -55,4 +55,3 @@ for row in rows:
                 if app["placeholder"]:
                     st.caption("⚠️ URLは仮のプレースホルダーです（デプロイ後に差し替え）")
                 st.link_button("起動 ↗", app["url"], type="primary")
-)
