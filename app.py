@@ -28,10 +28,17 @@ APPS = [
         "placeholder": False,
     },
     {
-        "name": "HostPL-extractor",
+        "name": "DXF-extract-labels",
+        "name_ja": "機器符号抽出ツール",
+        "description": "回路図（領域の特定可）から機器符号を抽出",
+        "url": "https://dxf-extract-labels-imdh5agzzybji7epk5pvuq.streamlit.app/",
+        "placeholder": False,
+    },
+    {
+        "name": "HostPL-comparer",
         "name_ja": "部品表比較ツール",
         "description": "ULKESと図面のパーツリストの機器符号を抽出・比較",
-        "url": "https://hostpl-extractor-ct5db325tefzpzcbobxeul.streamlit.app/",
+        "url": "https://hostpl-comparer-jja7upksm4amgjvqd7nuhv.streamlit.app/",
         "placeholder": False,
     },
 ]
