@@ -16,7 +16,7 @@ APPS = [
     {
         "name": "Ledger-merger",
         "name_ja": "図面管理台帳統合ツール",
-        "description": "図面差分管理ツールが出力した複数の図番管理台帳を統合",
+        "description": "図面差分管理ツールが出力した図番管理台帳を統合",
         "url": "https://ledger-merger-5hjdmtqn56kbaazzzqcc8c.streamlit.app/",
         "placeholder": False,
     },
