@@ -44,7 +44,7 @@ APPS = [
     {
         "name": "HostPL-comparer",
         "name_ja": "部品表比較ツール",
-        "description": "ULKESと図面のパーツリストの機器符号を抽出・比較",
+        "description": "ULKESと回路図面のパーツリストの整合性を確認",
         "url": "https://hostpl-comparer-jja7upksm4amgjvqd7nuhv.streamlit.app/",
         "placeholder": False,
     },
