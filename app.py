@@ -44,14 +44,14 @@ APPS = [
     {
         "name": "HostPL-comparer",
         "name_ja": "部品表比較ツール",
-        "description": "ULKESと回路図面のパーツリストの整合性を確認",
+        "description": "パーツリストの発注用と回路図面との整合性を確認",
         "url": "https://hostpl-comparer-jja7upksm4amgjvqd7nuhv.streamlit.app/",
         "placeholder": False,
     },
     {
         "name": "Index-comparer",
         "name_ja": "出図目録･図面台帳比較ツール",
-        "description": "出図目録と図面台帳の整合性を確認",
+        "description": "指番の出図目録と図面台帳の整合性を確認",
         "url": "https://indexcomparer-fhseqyqnmvhohufazmytne.streamlit.app/",
         "placeholder": False,
     },
