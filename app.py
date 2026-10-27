@@ -35,7 +35,7 @@ APPS = [
         "placeholder": False,
     },
     {
-        "name": "DXF-label-comparison",
+        "name": "DXF-cross-checker",
         "name_ja": "展開図・内結線図整合性チェックツール",
         "description": "展開接続図とUNIT内結線図のラベルの整合性を確認",
         "url": "https://dxf-label-comparison-meobmshm8rpdfjlde25rwd.streamlit.app/",
