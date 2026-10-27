@@ -17,7 +17,7 @@ APPS = [
         "name": "Ledger-merger",
         "name_ja": "図面管理台帳統合ツール",
         "description": "図面差分管理ツールが出力した図番管理台帳を統合",
-        "url": "https://ledger-merger-5hjdmtqn56kbaazzzqcc8c.streamlit.app/",
+        "url": "https://ledger-merger-alcc7pridc3w4thuyvxx2r.streamlit.app/",
         "placeholder": False,
     },
     {
@@ -38,7 +38,7 @@ APPS = [
         "name": "DXF-cross-checker",
         "name_ja": "展開図・内結線図整合性チェックツール",
         "description": "展開接続図とUNIT内結線図のラベルの整合性を確認",
-        "url": "https://dxf-label-comparison-meobmshm8rpdfjlde25rwd.streamlit.app/",
+        "url": "https://dxf-cross-checker-nkrjyzetanndragwrw4uk7.streamlit.app/",
         "placeholder": False,
     },
     {
@@ -52,7 +52,7 @@ APPS = [
         "name": "Index-comparer",
         "name_ja": "出図目録･図面台帳比較ツール",
         "description": "指番の出図目録と図面台帳の整合性を確認",
-        "url": "https://indexcomparer-fhseqyqnmvhohufazmytne.streamlit.app/",
+        "url": "https://index-comparer-dpyarihgplsrx2urehbgma.streamlit.app/",
         "placeholder": False,
     },
 ]
